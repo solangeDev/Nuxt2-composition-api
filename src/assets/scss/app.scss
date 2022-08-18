@@ -1,0 +1,18 @@
+// Color Pallete
+
+$light:  #F5F5F5;
+$dark:  #0A0A0A;
+$success:  #85CB33;
+$warning:  #D78521;
+$danger:  #CC2936;
+
+// Viewport Sizes
+
+$small:  728px;
+$mediumDesktop:  900px;
+
+html,
+body  {
+  background-color: $light;
+  overflow-x: hidden;
+}
